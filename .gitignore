@@ -98,4 +98,4 @@ node_modules/
 # track these mu-plugins, plugins, and themes
 # !wp-content/mu-plugins/example-mu-plugin/
 # !wp-content/plugins/example-plugin/
-# !wp-content/themes/example-theme/
+!wp-content/themes/primal/
